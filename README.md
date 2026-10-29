@@ -36,5 +36,5 @@ MySQL is used to store student information.
 ## Author
 MCA Student | Aspiring Java Full Stack Developer
 
-MCA Student | Aspiring Java Full Stack Developer
+
 
